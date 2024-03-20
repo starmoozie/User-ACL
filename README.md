@@ -1,6 +1,6 @@
 # User-ACL
 User ACL Design
-`{
+```{
     "name": "User",
     "role": {
         "name": "Root",
@@ -27,4 +27,4 @@ User ACL Design
             }
         ]
     }
-}`
+}```
